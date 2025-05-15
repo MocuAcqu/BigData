@@ -18,6 +18,6 @@
   2. 單封信分析功能
      當使用者點入任意一封信件中，可以使用此功能去分析該封信記中的標題、寄信人、內容、附件，是否包含異常關鍵字、釣魚網址。
 
-  | 批次分析功能 | 單封信分析功能 |
-  |:-:|:-:|
-  |![image]()|![image]()|
+  | 批次分析功能 Before | 批次分析功能 After | 單封信分析功能 Before | 單封信分析功能 After |
+  |:-:|:-:|:-:|:-:|
+  |![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A1_1.png)|![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A1_2.png)|![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A2_1.png)|![image](https://github.com/MocuAcqu/BigData/blob/main/%E9%87%A3%E9%AD%9A2_2.png)|
